@@ -64,7 +64,7 @@
   "dependencies": {
     "classnames": "^2.2.1",
     "css-vendor": "^0.3.1",
-    "jss": "^6.3.0",
+    "jss": "5.0.0",
     "jss-nested": "^1.0.1",
     "jss-vendor-prefixer": "^1.0.1",
     "lodash.sortby": "^3.1.5",
